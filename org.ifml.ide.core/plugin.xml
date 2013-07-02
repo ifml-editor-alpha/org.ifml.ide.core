@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.core.contenttype.contentTypes">
+      <content-type
+            file-extensions="ifml"
+            id="org.ifml.ide.core.contenttype.IfmlContentType" 
+            name="IFML">
+      </content-type>
+   </extension>
+
+</plugin>
